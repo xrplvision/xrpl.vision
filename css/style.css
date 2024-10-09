@@ -50,9 +50,14 @@ html {
     --success-300: rgb(119, 211, 179);
   }
 }
+ol.vision-list {
+  padding-left: 1.5rem;
+}
+
 .donate {
   display: flex;
   gap: 1rem;
+  align-items: center;
 }
 
 /*# sourceMappingURL=style.css.map */
