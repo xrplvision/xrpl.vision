@@ -60,4 +60,20 @@ ol.vision-list {
   align-items: center;
 }
 
+.vision-logo .eye {
+  -webkit-transform-origin-y: 47px;
+  animation: blink 0.5s ease forwards;
+  animation-iteration-count: 2;
+  animation-delay: 0.5s;
+}
+
+@keyframes blink {
+  0%, 10%, 12% {
+    transform: scaleY();
+  }
+  11% {
+    transform: scaleY(0);
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
