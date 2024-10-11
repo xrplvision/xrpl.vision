@@ -61,7 +61,7 @@ ol.vision-list {
 }
 
 .vision-logo .eye {
-  -webkit-transform-origin-y: 47px;
+  transform-origin: 0 47px;
   animation: blink 0.5s ease forwards;
   animation-iteration-count: 2;
   animation-delay: 0.5s;
