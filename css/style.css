@@ -75,5 +75,15 @@ ol.vision-list {
     transform: scaleY(0);
   }
 }
-
-/*# sourceMappingURL=style.css.map */
+.unl-grid {
+  padding-inline: 1.5rem;
+  list-style: number;
+}
+.unl-grid li {
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+.unl-grid .row {
+  display: grid;
+  grid-template-columns: 40px 40px repeat(auto-fit, minmax(5rem, 1fr));
+}
