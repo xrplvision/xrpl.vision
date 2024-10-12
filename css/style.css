@@ -96,5 +96,12 @@ ol.vision-list {
   display: block;
   line-height: 1;
 }
+.unl-grid .row > div:last-child a {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
 
 /*# sourceMappingURL=style.css.map */
