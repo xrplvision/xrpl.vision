@@ -104,4 +104,10 @@ ol.vision-list {
   max-width: 100%;
 }
 
+.is-muted {
+  opacity: 0.3;
+  cursor: default;
+  filter: grayscale(1);
+}
+
 /*# sourceMappingURL=style.css.map */
