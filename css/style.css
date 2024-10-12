@@ -97,7 +97,7 @@ ol.vision-list {
   line-height: 1;
 }
 .unl-grid .row > div:last-child a {
-  display: block;
+  display: inline-block;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
