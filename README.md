@@ -2,11 +2,9 @@
 
 Welcome to the **xrpl.vision** repository!
 
-This project provides a community-driven Unique Node List (UNL) for XRP, the XRP Ledger and the Internet of Value.
-
 ## Overview
 
-The xrpl.vision project serves as a hub for the first community-driven Unique Node List (UNL) for the XRP Ledger.
+The xrpl.vision project serves as a hub for the first community-driven Unique Node List (UNL) for XRP, the XRP Ledger and the Internet of Value.
 
 ## Features
 
