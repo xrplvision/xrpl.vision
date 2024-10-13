@@ -64,7 +64,7 @@ ol.vision-list {
   transform-origin: 0 47px;
   animation: blink 0.5s ease forwards;
   animation-iteration-count: 2;
-  animation-delay: 0.5s;
+  animation-delay: 1.25s;
 }
 
 @keyframes blink {
