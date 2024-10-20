@@ -11,6 +11,8 @@ The xrpl.vision project serves as a hub for the first community-driven Unique No
 - **Additions**
 - **Removals**
 - **Full list**
+- **Validator list**
+- **Public key**
 - **Resources**
 - **Feedback**
 - **Donate**
