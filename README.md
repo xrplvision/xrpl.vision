@@ -25,6 +25,4 @@ The xrpl.vision project serves as a hub for the first community-driven Unique No
 - A web browser to view the application.
 - Basic knowledge of HTML and CSS is helpful but not required.
 
-Explore the repository [xrplvision.github.io](https://github.com/xrplvision/xrplvision.github.io)
-
 Thank you for your interest in xrpl.vision!
