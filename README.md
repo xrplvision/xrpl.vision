@@ -1,4 +1,4 @@
-# xrplvision.github.io
+# xrpl.vision
 
 Welcome to the **xrpl.vision** repository!
 
